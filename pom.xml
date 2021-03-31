@@ -22,7 +22,7 @@
         <packagesPath>./target</packagesPath>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <com.google.guava.version>27.1-jre</com.google.guava.version>
+        <com.google.guava.version>29.0-jre</com.google.guava.version>
         <my.varible>42</my.varible>
     </properties>
 
